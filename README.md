@@ -11,6 +11,8 @@ git commit -m "tag creado"
 En gitignore, se agregaron las siguientes lineas
 datospersonales.txt
 datospersonales/
+
+
 ```
 
 | Nombre del Compañero | enlace a GitHub |
