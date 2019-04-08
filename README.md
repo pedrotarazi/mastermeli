@@ -11,4 +11,9 @@
 datospersonales.txt
 datospersonales/
 
+| Nombre del Compañero | enlace a GitHub |
+| -------------- | ----------------- |
+| Diego Garbiglia | https://github.com/drg91/ |
+| Cesar Morichetti | https://github.com/cesarmorichetti/ |
+| Juan Sardoy | https://github.com/jbsardoy/ |
 
